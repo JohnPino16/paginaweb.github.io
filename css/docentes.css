@@ -1,0 +1,30 @@
+.contenedor{
+	width: 90%;
+	padding: 2%;
+	margin: auto;
+}
+
+.titulo{
+	color: #21618C;
+	grid-column: span 2;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.table{
+	width: 90%;
+	margin: auto;
+}
+
+th{
+	width: 5%;
+}
+
+p{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+

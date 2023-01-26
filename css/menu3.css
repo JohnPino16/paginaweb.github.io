@@ -1,0 +1,49 @@
+.navbar-brand{
+	font-size: 35px;
+	font-style: oblique;
+	font-weight: bolder;
+	padding: 0 3%;
+}
+
+.nav-item{
+    margin-right: 15px;
+}
+
+.logo{
+	width: 100px;
+	left: auto;
+}
+
+/*ESTILOS CONTACTOS Y REDES SOCIALES*/
+
+.contactos{
+	position: fixed;
+	top: 35%;
+	margin: auto;
+	z-index: 35%;
+	z-index: 1;
+}
+
+.reds{
+	border-radius: 0px;
+}
+
+.redso1{
+	display: none;
+}
+
+.redes,
+.subredes{
+	list-style: none;
+	padding: 0;
+}
+
+.subredes{
+	display: none;
+	float: right;
+}
+
+.redes li:hover > ul{
+	display: block;
+}
+
